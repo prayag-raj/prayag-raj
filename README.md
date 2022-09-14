@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prayag-raj
-- 👀 I’m interested in Cybersecurity and Formula 1
-- 🌱 I’m currently learning JavaScript, HTML, CSS
+- 👀 I’m interested in Cybersecurity, Software Development and Formula 1
+- 🌱 I’m currently learning Java and SQL
 - 📫 How to reach me : @prayag__raj on Instagram
 
 <!---
